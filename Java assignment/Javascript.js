@@ -1,5 +1,5 @@
 let firstname = 'Joy'; 
-let lastname = 'Gogna';
+let lastname = ' Gogna';
 let age = 19
 
 alert('My Name Is ' + firstname + lastname );
