@@ -17,7 +17,7 @@ for( let i= 0; i< 10000; i++) {
             alert('The loop is done')
             
         }
-    
+        }
 var Favoriteshows = ["Golden Girls", "Madea", "Jimmy neutron", "Looney Tunes", "Tom & Jerry"];
 
 for(let i = 0; i < Favoriteshows.length; i++) 
